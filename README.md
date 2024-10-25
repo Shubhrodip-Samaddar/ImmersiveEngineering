@@ -4,6 +4,14 @@
 A retro-futuristic tech mod!
 Wires, transformers, capacitors!
 
+# About
+
+Immersive Engineering is a mod created by BluSunrize and Mr_Hazard. It adds new Forge Energy (FE)–based machinery with a retro-futuristic feeling to the game. It features many multiblock machines, with energy components that look and feel like an AC electrical network.
+IE is about making tech mods more balanced and more pretty, and adding its own twist by going for retro-futurism rather than clinical white+grey future cubes.
+It uses the Forge Energy API, known from just about every other tech mod, but it can be played fully standalone. Unlike other mods, IE does not use powertransfer via lanes of blocks, but instead via cables spanned between connectors.
+The mod features Power Generation in forms of waterwheels, windmills, biodiesel and more and many of its machines are multiblocks!
+
+Overall, the mod focuses on realistic energy generation and detailed machinery, creating a more immersive experience.
 # Downloads
 [CurseForge](https://minecraft.curseforge.com/projects/immersive-engineering/files) 
 
